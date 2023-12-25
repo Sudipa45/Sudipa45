@@ -17,7 +17,6 @@ I am interested in real-time problem-solving challenges including **IoT, Softwar
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sudipa45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipa45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipa45&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
