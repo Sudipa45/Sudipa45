@@ -1,4 +1,2 @@
-### Hi there!
-
- I'm Sudipa Saha, I thrive on real-time problem-solving challenges and have a knack for switching gears swiftly to embrace upcoming technologies.
-Currently immersed in the realms of IoT & Robotics, where I blend my passion for technology with hands-on experience.
+## Hi there! I'm Sudipa.
+I am interested in real-time problem-solving challenges including IoT, Software Engineering & Artificial Intelligence and have a knack for switching gears swiftly to embrace upcoming technologies. My core skills are on C, C++, Algorithms, Data Structur and Python. My minor skills cover Desktop Application with C/CPP and File System, MySQL , Mobile Application with Block Coding(C) and Firebase , Web Application with HTML|CSS, Bootstrap, PHP. Currently immersed in the realms of AI, IoT & Robotics.
